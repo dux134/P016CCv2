@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="in.dux.p016ccv2">
+    
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:hardwareAccelerated="true"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.LightNoActionBar">
+        <activity
+            android:name=".SplashScreen"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".home.MoreWebsites"
+            android:label="Websites" />
+        <activity
+            android:name=".home.NewsAndAlert_ViewAll"
+            android:label="News and Alert" />
+        <activity android:name=".SubjectsUnit" />
+        <activity android:name=".govt.GovtExamSubjectUnit" />
+        <activity android:name=".Dashboard" />
+        <activity
+            android:name=".govt.GovtExamSubjects"
+            android:label="Subjects" />
+        <activity android:name=".SelectCourse" />
+        <activity android:name=".SelectYear" />
+        <activity android:name=".Feedback" />
+        <activity android:name=".ShareNotes" />
+    </application>
+
+</manifest>

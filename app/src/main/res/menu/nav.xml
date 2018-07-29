@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/navigation_item1"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/home"
+        app:showAsAction="collapseActionView"/>
+
+    <item
+        android:id="@+id/navigation_item2"
+        android:icon="@drawable/ccsu_notes_black_24dp"
+        android:title="@string/ccsu_notes"
+        app:showAsAction="collapseActionView"/>
+
+    <item
+        android:id="@+id/navigation_item3"
+        android:icon="@drawable/govt_exam_black_24dp"
+        android:title="@string/govt_exam_pre"
+        app:showAsAction="collapseActionView"
+        />
+</menu>

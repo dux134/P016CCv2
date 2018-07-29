@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "551752681024",
+    "firebase_url": "https://p015cc-917d5.firebaseio.com",
+    "project_id": "p015cc-917d5",
+    "storage_bucket": "p015cc-917d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551752681024:android:59006ab11f4eda95",
+        "android_client_info": {
+          "package_name": "com.example.dux.p015cc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551752681024-kqi6sdqp348qh5cotkv7382pist7qphl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dux.p015cc",
+            "certificate_hash": "19c75ef40ed7207d2a22ea0396dd454b106df0af"
+          }
+        },
+        {
+          "client_id": "551752681024-cb11ql1uv2bsgkt1n886pevn3eqsvufn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwJfhnX08sXbh3gQKlAHpaen_7xsnvAVI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551752681024-cb11ql1uv2bsgkt1n886pevn3eqsvufn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551752681024:android:0282d0abdf7edc14",
+        "android_client_info": {
+          "package_name": "com.example.dux.p015cc_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551752681024-ba4lbgagep8urv1176b2itq3nqj9ps92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dux.p015cc_admin",
+            "certificate_hash": "19c75ef40ed7207d2a22ea0396dd454b106df0af"
+          }
+        },
+        {
+          "client_id": "551752681024-cb11ql1uv2bsgkt1n886pevn3eqsvufn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwJfhnX08sXbh3gQKlAHpaen_7xsnvAVI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551752681024-cb11ql1uv2bsgkt1n886pevn3eqsvufn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551752681024:android:fb8b1618282bec75",
+        "android_client_info": {
+          "package_name": "in.dux.p016ccv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551752681024-vpsjm6rifblslh1mt04t1uabvjbdpqbg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.dux.p016ccv2",
+            "certificate_hash": "19c75ef40ed7207d2a22ea0396dd454b106df0af"
+          }
+        },
+        {
+          "client_id": "551752681024-cb11ql1uv2bsgkt1n886pevn3eqsvufn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwJfhnX08sXbh3gQKlAHpaen_7xsnvAVI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551752681024-cb11ql1uv2bsgkt1n886pevn3eqsvufn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
